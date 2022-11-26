@@ -16,7 +16,8 @@
  import { createDrawerNavigator } from '@react-navigation/drawer';
  
  import { 
-   Provider as PaperProvider, 
+   Provider as PaperProvider,
+   
    DefaultTheme as PaperDefaultTheme,
    DarkTheme as PaperDarkTheme 
  } from 'react-native-paper';
